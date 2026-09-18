@@ -57,8 +57,13 @@
 # - Menambahkan fitur/library yang tidak diminta
 # - Refactor kode yang tidak diminta untuk di-refactor
 
-# 📌 ATURAN #5: TIDAK BOLEH NGIDE SENDIRI
-# AI DILARANG:
+# 📌 ATURAN #5: TIDAK BOLEH NGIDE SENDIRI & ANTI NGARANG
+# AI DILARANG KERAS halusinasi (ngarang) library, fungsi, atau fitur.
+#
+# 1. JANGAN PERNAH berasumsi sebuah library cocok tanpa mengecek versi project.
+# 2. WAJIB baca dokumentasi asli/terbaru dari internet jika ragu. Jangan pakai ingatan lama.
+# 3. JIKA sebuah library/alur tidak support dengan framework user, JANGAN DIPAKSAKAN. Stop dan beritahu user alasannya.
+# 4. Lebih baik bertanya 3 kali daripada membuang jutaan token mencoba kode yang secara fundamental salah.
 # - Menambahkan fitur yang tidak diminta
 # - Menginstall library/package baru tanpa izin
 # - Mengubah arsitektur yang sudah ada tanpa diminta

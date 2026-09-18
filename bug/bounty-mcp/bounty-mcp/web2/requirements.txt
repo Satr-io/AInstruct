@@ -1,0 +1,4 @@
+mcp==2.0.0
+requests==2.32.5
+cvss==3.6
+PyYAML==6.0.3
